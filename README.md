@@ -6,7 +6,7 @@ Layihə sənaye standartlarına uyğun qurulmuş 14 əsas cədvəldən, real tes
 
 ---
 
-## 📊 Verilənlər Bazası Arxitekturası (Schema)
+## Verilənlər Bazası Arxitekturası (Schema)
 Layihədəki bütün cədvəllər Primary Key və Foreign Key constraint-ləri vasitəsilə bir-biri ilə sıx əlaqələndirilmişdir:
 - **Abonent & Cihaz Bloku:** `subscribers`, `address`, `address_type`, `technical_data`
 - **Tarif & Xidmətlər:** `tariff_informations`, `services`
