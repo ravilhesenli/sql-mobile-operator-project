@@ -1,4 +1,4 @@
-#  Mobile Operator Crm & Billing Database Project
+#  Mobile Operator CRM & Billing Database Project
 
 Bu layihə, bir Mobil Operator şirkətinin abonentlərini, tarif planlarını, daxili/beynəlxalq zəng və SMS tarixçələrini, maliyyə ödənişlərini, cihaz məlumatlarını (IMEI/OS) və müştəri dəstək sorğularını (CRM) idarə etmək üçün nəzərdə tutulmuş **Oracle SQL verilənlər bazası modelidir**.
 
